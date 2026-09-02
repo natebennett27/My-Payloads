@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- An open circle: an unchecked task, with no implication of lateness. -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3F7D6B"
+        android:strokeWidth="2"
+        android:pathData="M12,3.5a8.5,8.5 0 1,0 0.01,0z"/>
+</vector>
